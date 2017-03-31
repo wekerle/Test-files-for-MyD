@@ -17,7 +17,7 @@ relief-megkonyebules,domborzat
 owe-tartozik
 to bear-elviselni
 stuck up-bekepzelt
-half-witted-feleszu
+half witted-feleszu
 wit-esz
 scruffy-apolatlan
 herd-csorda
