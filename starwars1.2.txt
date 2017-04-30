@@ -54,7 +54,7 @@ counsel-tanacs
 to widen-a largi, kitagit
 draw out-kirajzolni, a scoate la lumina
 clue-cheie,indiciu,nyom,kulcs
-to sens-felfogni,a intelege
+to sense-felfogni,a intelege
 to reside-lakni
 to quiet-a linisti
 pitch-hangmagassag,menetemlekedes
