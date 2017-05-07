@@ -1,0 +1,53 @@
+grave-komoly,grav/mormant,sir
+Ain't- am not, is not, are not, has not, and have not
+i'd-a had/i would
+trial-proces,judecata
+delighted-elragadtatva,incantat
+care-gondoskodas,ingrijire
+motive-motivum,inditek,ok
+soothing-linistitor,nyugtato
+disobey-fail to obey
+sprout- hajtas,rugy,germen, mugur
+hull-hajotest,carena
+stand by-alj keszenletbe
+hint-celzas,utalas,sugestie
+hint-a slight or indirect indication or suggestion
+watch out-vigyazz,ai grija
+dawn-virradat,zori de zi
+vicious-gonosz,vicios
+heal-a vindeca,gyogyit
+last-tart,a dura
+to rally-gyulekezik,adunare
+to propos-javasolni,a propune
+to propos-put forward (an idea or plan) for consideration or discussion by others
+to construe-ertelmez,a interpreta
+treason-arulas,tradare
+pledge-fogadalom,igeret
+overwhelmed-elnyom,elaraszt,tulterhelt
+shifter-valto,schimbator
+darling-kedves,szeretett,draga,iubit
+emergency-vezshelyzet,caz de urgenta
+madness-orultseg,nebunie
+aware=constient,tudataba lenni
+to blame-vinui,hibaztat
+blame-vina
+pity-kar/mila
+pity-kar/mila
+pity-the feeling of sorrow and compassion caused by the suffering and misfortunes of others
+sorrow-banat,szomurusag,intristre,durere
+in league with-In close cooperation or in partnership with, often secretly or in a conspiracy
+secure-a asigura,garanta,obtine
+to abate-ervenytelenit,a abate, a pune capat,a diminua
+obtuse-tompa,korlatolt
+worthy-melto,vrednic
+spared-megkimelt,crutat
+hostage-tusz,fogply,ostatic
+barter-cserekereskedelem
+to amasse-felhalmozz,oszegyujt
+treachery-arulas,hutlenseg,tradare
+to esteem-megbecsul,stima
+to interfere-zavarja,beavatkozik,akadalyoza,a interfera, a se amesteca
+affair-ugy,afacere
+deceit-csalas,inselaciune
+mistrust-lack of trust,bizalmatlansag,neincredere
+shroud-halloti lepel,szemfedo,giurgiu
