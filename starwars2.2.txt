@@ -28,7 +28,7 @@ shifter-valto,schimbator
 darling-kedves,szeretett,draga,iubit
 emergency-vezshelyzet,caz de urgenta
 madness-orultseg,nebunie
-aware=constient,tudataba lenni
+aware-constient,tudataba lenni
 to blame-vinui,hibaztat
 blame-vina
 pity-kar/mila
